@@ -1,19 +1,30 @@
-# 🚀 Madhu Sudhan | Full-Stack Developer & Cybersecurity Enthusiast
+<!-- ─── ANIMATED HEADER ─── -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Madhu%20Sudhan&fontSize=50&fontAlignY=35&animation=twinkling&desc=Full-Stack%20%7C%20Cybersecurity%20%7C%20AI&descAlignY=55" width="100%" alt="Header" />
+</div>
+
+<!-- ─── GREETING + WAVE ─── -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  Hey there, I'm Madhu Sudhan
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h1>
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=39FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Madhu+Sudhan;Full-Stack+Developer;Cybersecurity+Enthusiast;B.Tech+CSE+%40+JNTUH+%7C+2027;Building+AI-powered+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=39FF88&center=true&vCenter=true&width=600&lines=Full‑Stack+Developer;Cybersecurity+Enthusiast;B.Tech+CSE+%40+JNTUH+%7C+2027;Building+AI‑powered+Apps;Always+learning+something+new" alt="Typing SVG" />
   
   <p>
     <a href="https://mrstar.qzz.io"><img src="https://img.shields.io/badge/Portfolio-mrstar.qzz.io-39FF88?style=for-the-badge&logo=firefox&logoColor=black" /></a>
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://github.com/MadhuSudhan138"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   </p>
-  
-  <img src="https://komarev.com/ghpvc/?username=MadhuSudhan138&style=flat-square&color=39FF88" alt="Profile views" />
-  
+
+  <!-- Animated visitor badge -->
+  <img src="https://komarev.com/ghpvc/?username=MadhuSudhan138&style=flat-square&color=39FF88&label=👀+Visitors" alt="Profile views" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=🐦+Twitter&query=followers&url=https://api.twitter.com/1.1/users/show.json?screen_name=your-twitter&color=1DA1F2" alt="Twitter followers" />
+
 </div>
 
 ---
@@ -22,13 +33,15 @@
 
 > *"I build things that work, then try to break them — legally."*
 
-I'm a **B.Tech CSE** student at JNTUH (2023–2027) with a unique background in **Civil Engineering** (Diploma). This blend gives me a problem-solving mindset that bridges physical and digital worlds. Today, I'm a passionate **full-stack developer** who crafts **AI-powered web applications** and a self-taught **cybersecurity practitioner** — always learning, always building.
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200" alt="Coding" />
 
-- 🔭 I’m currently working on **AI-integrated web apps** and **security automation scripts**.
-- 🌱 I’m currently learning **Advanced Penetration Testing** and **Cloud Security**.
-- 👯 I’m open to collaborate on **open-source AI projects** and **cybersecurity tools**.
+I'm a **B.Tech CSE** student at JNTUH (2023–2027) with a unique background in **Civil Engineering** (Diploma). This blend gives me a problem‑solving mindset that bridges physical and digital worlds. Today, I'm a passionate **full‑stack developer** who crafts **AI‑powered web applications** and a self‑taught **cybersecurity practitioner** — always learning, always building.
+
+- 🔭 I’m currently working on **AI‑integrated web apps** & **security automation scripts**.
+- 🌱 I’m currently learning **Advanced Penetration Testing** & **Cloud Security**.
+- 👯 I’m open to collaborate on **open‑source AI projects** & **cybersecurity tools**.
 - 💬 Ask me about **Python, Flask, FastAPI, React, or Kali Linux**.
-- ⚡ Fun fact: I can crack a Wi-Fi handshake and bake a perfect sourdough bread in the same hour.
+- ⚡ Fun fact: I can crack a Wi‑Fi handshake *and* bake a perfect sourdough bread in the same hour.
 
 ---
 
@@ -38,7 +51,7 @@ I'm a **B.Tech CSE** student at JNTUH (2023–2027) with a unique background in 
 |----------|-------------------------|----------------|
 | 2023 – 2027 | **B.Tech CSE** — JNTUH, Hyderabad | Pursuing with focus on AI/ML, Web Dev & Cybersecurity |
 | 2019 – 2023 | **Diploma in Civil Engineering** | Transitioned to CS; strong foundation in analytical thinking |
-| 2024 – Present | **Freelance Full-Stack Developer** | Built 5+ web apps for small businesses & startups |
+| 2024 – Present | **Freelance Full‑Stack Developer** | Built 5+ web apps for small businesses & startups |
 | 2024 | **Cybersecurity Intern** (Virtual) | Practiced vulnerability assessment & penetration testing in lab environments |
 
 ---
@@ -48,15 +61,12 @@ I'm a **B.Tech CSE** student at JNTUH (2023–2027) with a unique background in 
 <div align="center">
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" /> 
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50" /> 
+<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" /> 
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="50" /> 
+<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mzf/giphy.gif" width="50" /> 
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50" /> 
 
 ### ⚙️ Frameworks & Libraries
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -94,43 +104,93 @@ I'm a **B.Tech CSE** student at JNTUH (2023–2027) with a unique background in 
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Description | Status |
-|---------|------------|-------------|--------|
-| **[Face Recognition Attendance System](https://github.com/MadhuSudhan138/face-attendance)** | FastAPI, OpenCV, Firebase, MongoDB | Real‑time face‑verified attendance with PWA support; deployed on Render + Netlify. | ✅ Live |
-| **[Jarvis AI Assistant](https://github.com/MadhuSudhan138/jarvis-ai)** | Python, Streamlit, Telegram Bot, AI APIs | 18‑module Linux voice assistant with dual STT, conversation memory, and system control. | ✅ Active |
-| **[Food Ordering System](https://github.com/MadhuSudhan138/food-order)** | PHP, MySQL, JavaScript, Bootstrap | Full‑fledged ordering workflow: browse, cart, checkout, order tracking. | ✅ Complete |
-| **[The Digital Spoon](https://github.com/MadhuSudhan138/digital-spoon)** | HTML, CSS, JS, RESTful APIs | Restaurant menu & order management with a clean, responsive UI. | ✅ Complete |
-| **[AI Chat Web App](https://github.com/MadhuSudhan138/ai-chat)** | JavaScript, Firebase, OpenAI API | Conversational AI with persistent chat history and multi‑turn interactions. | ✅ Live |
-| **[Cybersecurity Learning Lab](https://github.com/MadhuSudhan138/cyber-lab)** | Kali Linux, Nmap, Burp Suite, WebGoat | Structured environment for recon, enumeration, exploitation; all in isolated VMs. | 🔄 Ongoing |
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <strong>🎯 Face Recognition Attendance</strong><br/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" /><br/>
+        Real‑time face‑verified attendance with PWA support.
+      </td>
+      <td width="50%">
+        <strong>🤖 Jarvis AI Assistant</strong><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit" /> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram" /><br/>
+        18‑module Linux voice assistant with AI chat & system control.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>🍔 Food Ordering System</strong><br/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" /><br/>
+        Full ordering workflow – browse, cart, checkout, tracking.
+      </td>
+      <td width="50%">
+        <strong>🥄 The Digital Spoon</strong><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest" /><br/>
+        Restaurant menu & order management – clean, responsive UI.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <strong>💬 AI Chat Web App</strong><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai" /><br/>
+        Conversational AI with persistent history and multi‑turn chat.
+      </td>
+      <td width="50%">
+        <strong>🔐 Cybersecurity Lab</strong><br/>
+        <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux" /> <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite" /><br/>
+        Recon → enumeration → exploitation in isolated VMs.
+      </td>
+    </tr>
+  </table>
+</div>
 
-> **More projects available on [my GitHub](https://github.com/MadhuSudhan138?tab=repositories).**
+> **🔗 More projects on [my GitHub](https://github.com/MadhuSudhan138?tab=repositories)**
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
+  <!-- Animated stats cards with gradient borders (they are static but we can wrap them) -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MadhuSudhan138&show_icons=true&theme=dark&bg_color=0d1117&title_color=39ff88&icon_color=4c8dff&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuSudhan138&layout=compact&theme=dark&bg_color=0d1117&title_color=39ff88&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" />
-  
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhuSudhan138&theme=dark&background=0d1117&ring=39ff88&fire=ffb454&currStreakLabel=39ff88&border=30363d" alt="GitHub Streak" />
-  
+
   <br/>
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhuSudhan138&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%"/>
-  
-  <br/>
-  
-  <img src="https://ghchart.rshah.org/39ff88/MadhuSudhan138" alt="Contribution Graph" width="90%" />
+
+  <!-- Animated Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MadhuSudhan138/MadhuSudhan138/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MadhuSudhan138/MadhuSudhan138/output/snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MadhuSudhan138/MadhuSudhan138/output/snake.svg" width="100%" />
+  </picture>
+
+  <!-- Trophies with a small animation (fade) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=MadhuSudhan138&theme=onestar&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" style="animation: fadeIn 1.5s;" />
+
+  <!-- Animated contributions calendar (static image but we can use gif version) -->
+  <img src="https://ghchart.rshah.org/39ff88/MadhuSudhan138" alt="Contribution Chart" width="90%" />
 
 </div>
 
 ---
 
-## 📝 Recent Blog Posts (Coming Soon)
+## 🎵 Now Playing (optional)
 
-I'm planning to start a technical blog where I'll share insights on **web development**, **AI integration**, and **cybersecurity**. Stay tuned!
+> *I usually code with music – here’s what I'm listening to right now.*
+
+[![Spotify](https://spotify-now-playing-badge.vercel.app/api/spotify?client_id=your_client_id&client_secret=your_client_secret&refresh_token=your_refresh_token)](https://open.spotify.com/user/your-user)
+
+*(Replace with your own Spotify widget or remove this section.)*
+
+---
+
+## 📝 Blog Posts (Coming Soon)
+
+I’m planning a technical blog covering **web development**, **AI integration**, and **cybersecurity** – stay tuned!
 
 ---
 
@@ -150,7 +210,7 @@ I'm planning to start a technical blog where I'll share insights on **web develo
 
 ## ☕ Support My Work
 
-If you like what I do, consider buying me a coffee! It fuels my late-night coding sessions.
+If you enjoy my projects, consider buying me a coffee – it keeps me coding through the night!
 
 <a href="https://www.buymeacoffee.com/yourhandle"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=yourhandle&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
@@ -165,3 +225,6 @@ If you like what I do, consider buying me a coffee! It fuels my late-night codin
   <br/>
   <sub>© 2025 Madhu Sudhan — Crafted with ❤️ and ☕</sub>
 </div>
+
+<!-- hidden animated footer (optional) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
